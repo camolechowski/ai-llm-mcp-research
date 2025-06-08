@@ -9,12 +9,12 @@ This rule holds *especially* true when giving LLMs the agency to act on your beh
 
 It is even more pertinent in the context of an "un-siloed" environment or with unfettered internet access.
 
-This repository is being actively curated, will by including an MCP in this list I am not vouching for its safety or efficacy.
+This repository is being actively curated and will undergo changes. By including an MCP in this list, I am **not** vouching for its safety or efficacy.
 
 ## Large Language Models (LLMs)
 Frameworks, Best Practices, & Basic Information
 
-### Anthropic: Documentation
+### Anthropic Docs
 - [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices)
 - [Prompt Engineering](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview)
@@ -34,13 +34,15 @@ _Note_: This section is primarily focused on MCP **servers**, if you aren't fami
 - And read the [Model Context Protocol Section of this README](https://github.com/camolechowski/ai-llm-mcp-research/edit/main/README.md#model-context-protocol-repository-readme-index) for servers recommended by the folks behind it!
 
 ### Actively Testing
-#### Currently In Use in My Hobby Project Development Workflows 
+Currently In Use in Development Workflows (for Hobby Projects)
+
 - [@zengwenliang416's Sequential Thinking MCP](https://github.com/zengwenliang416/mcp-server-sequential-thinking)
 - [@agentdeskai's BrowserTools MCP](https://github.com/AgentDeskAI/browser-tools-mcp)
 - [namu's Browser MCP](https://browsermcp.io)
 
 ### Actively Researching
-#### Currently Familiarizing Myself with Available Documentation & Community Input
+Currently Familiarizing Myself with Available Documentation & Community Input
+
 - [@eyaltoledano's Claude Task Master MCP](https://github.com/eyaltoledano/claude-task-master)
 - [@oraios's SERENA (Semantic Retrieval & Editing Noetic Agent) MCP](https://github.com/oraios/serena)
 - [@wonderwhy-er's DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
@@ -51,7 +53,9 @@ _Note_: This section is primarily focused on MCP **servers**, if you aren't fami
 - [@luiyoshio's MCP Compass MCP](https://github.com/liuyoshio/mcp-compass)
 - [DuckDuckGo Search MCP](https://github.com/nickclyde/duckduckgo-mcp-server)
 
-### Model Context Protocol Repository README Index
+### [Model Context Protocol Servers Repository](https://github.com/modelcontextprotocol/servers) README Index
+Links to Specific Sections of the MCP Repo's README
+
 - [Reference Servers](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file#-reference-servers) 
   - [Everything MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/everything)
   - [Fetch MCP Server](https://github.com/modelcontextprotocol/servers/blob/main/src/fetch) 
